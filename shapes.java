@@ -42,7 +42,7 @@ public class shapes{
 		circle c=new circle(r);
 		c.area();
 		c.perimeter();
-		System.out.println("Eneter length of rectangle:");
+		System.out.println("Enter length of rectangle:");
 		int l=sc.nextInt();
 		System.out.println("Enter breadth of rectangle:");
 		int b=sc.nextInt();
